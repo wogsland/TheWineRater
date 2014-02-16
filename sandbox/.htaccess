@@ -1,0 +1,5 @@
+AddHandler php5-script .php
+AuthUserFile /www/htdocs/domains/s8/01330/www.thewinerater.com/webdocs/sandbox/.htpasswd
+AuthType Basic
+AuthName Protected
+Require valid-user
