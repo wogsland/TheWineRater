@@ -71,5 +71,5 @@ Copyright 2009 <a href="http://wogsland.org/bradley">Bradley James Wogsland</a>.
 
 <p><br><p>
  
-</BODY>
-</HTML>
+</body>
+</html>
