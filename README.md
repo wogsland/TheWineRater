@@ -1,6 +1,10 @@
 # The Wine Rater
 
-This is a website with information about wine. It was created with a PERL script acting on a CSV.
+This is a website with information about wine.
+
+## History
+
+It was originally created with a PERL script acting on a CSV. I'm not sure where the PERL script or the CSV are anymore.
 
 ## Development Plan, or Lies
 
